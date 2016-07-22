@@ -1,2 +1,2 @@
-# mytube
-A React YouTube Clone
+# MyTube
+A React YouTube Clone.
